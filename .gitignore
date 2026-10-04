@@ -12,3 +12,7 @@ venv/
 firmware/build/
 firmware/managed_components/
 firmware/sdkconfig.old
+[200~.vscode/
+/README_FIX.md
+/README_PATCH.md
+/README_PORTFOLIO.md
