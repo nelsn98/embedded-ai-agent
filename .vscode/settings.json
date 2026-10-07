@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "D:/Code/embedded-ai-agent-day1/firmware",
+    "idf.flashType": "JTAG"
+}
